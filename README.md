@@ -6,11 +6,15 @@
 
 ![andongmin94's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andongmin94&count_private=true&show_icons=true&theme=tokyonight)
 
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /></code>
+
 
 ### 🛠 Tech Stack
 
 <div>
+
+<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" /></code>
+
+<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" /></code>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
