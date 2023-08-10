@@ -16,9 +16,9 @@
 
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" /></code> <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/django.svg" /></code>
 
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/adobephotoshop.svg" /></code> <code> <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/adobeillustrator.svg" /></code> <code>
+<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/adobephotoshop.svg" /></code> <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/adobeillustrator.svg" /></code>
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/adobepremierepro.svg" /></code> <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/adobeaftereffects.svg" /></code>
+<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/adobepremierepro.svg" /></code> <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/adobeaftereffects.svg" /></code>
 
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/youtube.svg" /></code> <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/abletonlive.svg" /></code>
 
