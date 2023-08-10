@@ -1,6 +1,6 @@
 <div align="center">
 
-# SSAFY 10기 구미 3반 김상훈
+# SSAFY 10기
 
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=andongmin)](https://solved.ac/andongmin)
 
