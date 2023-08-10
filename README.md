@@ -16,25 +16,10 @@
 
 <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/python.svg" /></code> <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/django.svg" /></code>
 
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/adobephotoshop.svg" /></code> <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/adobepremierepro.svg" /></code> <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/adobeaftereffects.svg" /></code>
+<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/adobephotoshop.svg" /></code> <code> <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/adobeillustrator.svg" /></code> <code>
 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/adobepremierepro.svg" /></code> <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/adobeaftereffects.svg" /></code>
 
-
-
-
-
-
-
-
-<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/abletonlive.svg" /></code>
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+<code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/youtube.svg" /></code> <code><img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/abletonlive.svg" /></code>
 
 </div>
