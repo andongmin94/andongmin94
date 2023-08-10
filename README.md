@@ -4,8 +4,7 @@
 
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=andongmin)](https://solved.ac/andongmin)
 
-![andongmin94's github stats](https://github-readme-stats.vercel.app/api?username=andongmin94&show_icons=true)
-![andongmin94's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=endink&count_private=true&show_icons=true&theme=tokyonight)
+![andongmin94's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andongmin94&count_private=true&show_icons=true&theme=tokyonight)
 
 ### 🛠 Tech Stack
 
