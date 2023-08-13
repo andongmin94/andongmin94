@@ -1,6 +1,6 @@
 <div align="center">
 
-# SSAFY 10기
+# SSAFY 10th
 
 ### 🛠 Tech Stack
 
