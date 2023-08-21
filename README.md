@@ -13,5 +13,3 @@
 </div>
 
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=andongmin)](https://solved.ac/andongmin)
-
-!image](https://github.com/andongmin94/andongmin94/assets/110483588/10cf9fb3-c1a0-481e-af6e-5ddc6e22c248)
