@@ -13,4 +13,4 @@
 </div>
 
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=andongmin)](https://solved.ac/andongmin)
-![image](https://github.com/andongmin94/andongmin94/assets/110483588/0d1a63a4-7432-4a86-8d99-326ad8b945b5)
+![image](https://github.com/andongmin94/andongmin94/assets/110483588/10cf9fb3-c1a0-481e-af6e-5ddc6e22c248)
