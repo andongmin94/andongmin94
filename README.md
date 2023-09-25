@@ -1,4 +1,3 @@
-```html
 <img width="300" alt="image" src="https://github.com/andongmin94/andongmin94/assets/110483588/6c3d1086-c4a5-4b83-9acd-46d38d0597fb">
 
 ### Languages ###
@@ -26,4 +25,3 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=andongmin)](https://solved.ac/andongmin)
-```
