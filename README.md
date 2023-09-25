@@ -6,10 +6,12 @@
 <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-000000?style=flat-square&logo=Typescript&logoColor=white"/>
+
 ### Libraries/Framework ###
 <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrapap-000000?style=flat-square&logo=bootstrap&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=Django&logoColor=white"/>
+
 ### Tools ###
 <img src="https://img.shields.io/badge/unrealengine-000000?style=flat-square&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/rider-000000?style=flat-square&logo=rider&logoColor=white"/>
 
