@@ -1,7 +1,7 @@
-<img width="700" alt="image" src="https://github.com/andongmin94/andongmin94/assets/110483588/4bda5b88-de6f-434a-bf89-73f54414a1bb">
+<img width="300" alt="image" src="https://github.com/andongmin94/andongmin94/assets/110483588/4bda5b88-de6f-434a-bf89-73f54414a1bb">
 
 ### Languages ###
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
 ### Libraries/Framework ###
