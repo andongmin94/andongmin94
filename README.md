@@ -13,10 +13,6 @@
 <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=Django&logoColor=white"/>
 
 ### Tools ###
-<img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-000000?style=flat-square&logo=Ubuntu&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=SQLite&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/unrealengine-000000?style=flat-square&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Visual Studio-000000?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-000000?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/rider-000000?style=flat-square&logo=rider&logoColor=white"/>
