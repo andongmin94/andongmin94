@@ -1,4 +1,4 @@
-<div=center>
+<div style=center>
 
 <img width="300" alt="image" src="https://github.com/andongmin94/andongmin94/assets/110483588/4bda5b88-de6f-434a-bf89-73f54414a1bb">
 
@@ -34,3 +34,4 @@
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=andongmin)](https://solved.ac/andongmin)
+</div>
