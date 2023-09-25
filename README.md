@@ -1,3 +1,5 @@
+<p align="center">
+
 <img width="300" alt="image" src="https://github.com/andongmin94/andongmin94/assets/110483588/6c3d1086-c4a5-4b83-9acd-46d38d0597fb">
 
 ### Languages ###
