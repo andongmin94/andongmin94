@@ -1,4 +1,4 @@
-<img width="300" alt="image" src="https://github.com/andongmin94/andongmin94/assets/110483588/4bda5b88-de6f-434a-bf89-73f54414a1bb">
+<img width="300" alt="image" src="https://github.com/andongmin94/andongmin94/assets/110483588/4bda5b88-de6f-434a-bf89-73f54414a1bb" style="inline-block">
 
 ### Languages ###
 <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=white"/>
