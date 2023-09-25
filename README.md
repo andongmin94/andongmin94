@@ -8,9 +8,7 @@
 <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-000000?style=flat-square&logo=Typescript&logoColor=white"/>
 
 ### Libraries/Framework ###
-<img src="https://img.shields.io/badge/Bootstrapap-000000?style=flat-square&logo=bootstrap&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrapap-000000?style=flat-square&logo=bootstrap&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=Django&logoColor=white"/>
 
