@@ -3,8 +3,6 @@
 ### Languages ###
 <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=Python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-000000?style=flat-square&logo=Typescript&logoColor=white"/>
 
 ### Libraries/Framework ###
