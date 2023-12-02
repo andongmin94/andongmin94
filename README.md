@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-000000?style=flat-square&logo=Typescript&logoColor=white"/>
 
 ### Libraries/Framework ###
-<img src="https://img.shields.io/badge/React-3776FF?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-3776RR?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 
 ### Tools ###
 <img src="https://img.shields.io/badge/Photoshop-0062B0?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-DB6A26?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
