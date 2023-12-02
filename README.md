@@ -9,8 +9,8 @@
 ### Tools ###
 <img src="https://img.shields.io/badge/Photoshop-0062B0?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-DB6A26?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Premiere Pro-783BF9?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> <img src="https://img.shields.io/badge/After Effects-783BF9?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
+<img src="https://img.shields.io/badge/Premiere Pro-560FD7?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> <img src="https://img.shields.io/badge/After Effects-560FD7?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Unreal-000000?style=flat-square&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Unreal Engine-000000?style=flat-square&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/> 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=andongmin)](https://solved.ac/andongmin)
