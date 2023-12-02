@@ -3,7 +3,7 @@
 ### Languages ###
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-000000?style=flat-square&logo=Typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
 
 ### Libraries/Framework ###
 <img src="https://img.shields.io/badge/React-338CCF?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Django-3C6153?style=flat-square&logo=Django&logoColor=white"/>
