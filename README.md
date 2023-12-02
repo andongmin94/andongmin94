@@ -11,7 +11,7 @@
 ### Tools ###
 <img src="https://img.shields.io/badge/unrealengine-000000?style=flat-square&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/> 
 
-<img src="https://img.shields.io/badge/Adobe Photoshop-0062B0?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Illustrator-000000?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Photoshop-0062B0?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Illustrator-DB6A26?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Adobe Premiere Pro-783BF9?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe After Effects-783BF9?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
 
