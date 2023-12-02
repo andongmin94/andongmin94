@@ -11,9 +11,9 @@
 ### Tools ###
 <img src="https://img.shields.io/badge/unrealengine-000000?style=flat-square&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/> 
 
-<img src="https://img.shields.io/badge/Adobe Photoshop-000000?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Illustrator-000000?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Illustrator-000000?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Adobe Premiere Pro-000000?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Premiere Pro-783BF9FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe After Effects-783BF9?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=andongmin)](https://solved.ac/andongmin)
