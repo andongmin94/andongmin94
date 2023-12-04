@@ -3,6 +3,7 @@
 <div>
   
 <div>
+  
 ### Languages ###
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
@@ -15,10 +16,13 @@
 <img src="https://img.shields.io/badge/Photoshop-0062B0?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-DB6A26?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Premiere Pro-560FD7?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> <img src="https://img.shields.io/badge/After Effects-560FD7?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
+
 </div>
 
 <div>
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=andongmin)](https://solved.ac/andongmin)
+
 </div>
 
 </div>
