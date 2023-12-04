@@ -15,6 +15,6 @@
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=andongmin)](https://solved.ac/andongmin)
 
-<img width="280" alt="image" src="https://github.com/andongmin94/andongmin94/assets/110483588/4e4abf89-95a8-4de6-8a51-de54da08984d">
+<img width="350" alt="image" src="https://github.com/andongmin94/andongmin94/assets/110483588/4e4abf89-95a8-4de6-8a51-de54da08984d">
 
 </div>
