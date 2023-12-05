@@ -1,30 +1,6 @@
-```
-- 現 SSAFY 10기
-
-- 前 한국과학기술정보연구원
-
-- 前 한국표준과학연구원
-
-- 前 공공SI사업 (대표)
-```
-
-```
-- OO시 콘텐츠크리에이터 과업 수행
-
-- 소상공인진흥공단 신사업창업사관학교 과업 수행
-
-- OO전자정보기술원 과업 수행
-
-- 창업진흥원 예비창업패키지 창업프리스쿨 과업 수행
-
-- OO시 창업 아이디어톤 우수상 수상
-
-- OO시 창업기업 지원사업 선정
-
-- 한국자산관리공사 과업 수행
-```
-
 <div align=center>
+
+![image](https://github.com/andongmin94/andongmin94/assets/110483588/38b09935-4294-4472-9be8-457eb0f8478e)
 
 ### Languages ###
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
