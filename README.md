@@ -1,6 +1,6 @@
 <div align=center>
 
-<img width="350" alt="image" src="https://github.com/andongmin94/andongmin94/assets/110483588/27a8720e-387a-4b3d-a15f-2244b413a5b3">
+<img width="350" alt="image" src="https://github.com/andongmin94/andongmin94/assets/110483588/08f9c86c-2975-4fa0-a858-a0cccfeb3723">
 
 ### Languages ###
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
