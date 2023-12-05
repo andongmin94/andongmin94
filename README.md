@@ -15,7 +15,7 @@
 
 <img src="https://img.shields.io/badge/Premiere Pro-510AD2?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> <img src="https://img.shields.io/badge/After Effects-510AD2?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andongmin&layout=compact&theme=onedark&langs_count=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andongmin94&layout=compact&theme=onedark&langs_count=4)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=andongmin)](https://solved.ac/andongmin)
 
