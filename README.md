@@ -1,7 +1,3 @@
-<div align=center>
-
-<img width="350" alt="image" src="https://github.com/andongmin94/andongmin94/assets/110483588/4e4abf89-95a8-4de6-8a51-de54da08984d">
-
 ```js filename="이력"
 - 現 SSAFY 10기
 
@@ -27,6 +23,8 @@
 
 - 한국자산관리공사 과업 수행
 ```
+
+<div align=center>
 
 ### Languages ###
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
