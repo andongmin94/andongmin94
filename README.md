@@ -1,6 +1,6 @@
 <div align=center>
 
-![image](https://github.com/andongmin94/andongmin94/assets/110483588/38b09935-4294-4472-9be8-457eb0f8478e)
+<img width="350" alt="image" src="https://github.com/andongmin94/andongmin94/assets/110483588/38b09935-4294-4472-9be8-457eb0f8478e">
 
 ### Languages ###
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
