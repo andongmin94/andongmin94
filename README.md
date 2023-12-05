@@ -1,6 +1,6 @@
 <div align=center>
 
-<img width="350" alt="image" src="https://github.com/andongmin94/andongmin94/assets/110483588/71aae00e-4118-42f4-8711-9e89c91b54d4"><br />
+<img width="350" alt="image" src="https://github.com/andongmin94/andongmin94/assets/110483588/71aae00e-4118-42f4-8711-9e89c91b54d4"><br /><br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andongmin94&layout=compact&theme=onedark&langs_count=4)
 
