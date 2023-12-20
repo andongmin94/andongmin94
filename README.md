@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 ### Libraries/Framework ###
-<img src="https://img.shields.io/badge/Unreal-F4F4F4?style=flat-square&logo=unrealengine&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Django-3C6153?style=flat-square&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unreal-F4F4F4?style=flat-square&logo=verse&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Django-3C6153?style=flat-square&logo=Django&logoColor=white"/>
   
 ### Tools ###
 <img src="https://img.shields.io/badge/GitHub-F4F4F4?style=flat-square&logo=GitHub&logoColor=black"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
