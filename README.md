@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&Align=50&descSize=15&fontSize=60)
-
 <div align=center>
 
 <img width="350" alt="image" src="https://github.com/andongmin94/andongmin94/assets/110483588/71aae00e-4118-42f4-8711-9e89c91b54d4"><br /><br />
@@ -24,5 +22,3 @@
 <img src="http://mazandi.herokuapp.com/api?handle=andongmin"/>
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer)
