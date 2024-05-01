@@ -1,7 +1,7 @@
 <div align=center>
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandongmin94%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false">
-<--
+
 ### Available ###
 
 <img src="https://img.shields.io/badge/React-40AEF0?style=flat-square&logo=react&logoColor=white"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
@@ -16,5 +16,5 @@
 <a href=https://www.acmicpc.net/user/andongmin><img src="http://mazassumnida.wtf/api/generate_badge?boj=andongmin" height=165px></a>
 &nbsp;&nbsp;&nbsp;
 <a href=https://solved.ac/andongmin><img src="http://mazandi.herokuapp.com/api?handle=andongmin&theme=dark" height=165px></a>
--->
+
 </div>
