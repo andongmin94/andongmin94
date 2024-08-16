@@ -17,9 +17,9 @@
       <br />
       <strong><a href="https://github.com/andongmin94/chat-view">ChatView</a> (Phase 1)</strong> 
       <br />
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       Streamer Chat Overlay
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td align="center">
       <a href="https://github.com/andongmin94/kersor"><img src="https://cdn-icons-png.flaticon.com/512/10986/10986662.png" height=100px></a>
@@ -42,7 +42,7 @@
       <br />
       <strong><a href="https://github.com/andongmin94/frontron">Frontron</a> (Phase 3)</strong> 
       <br />
-      Web 2 App Converter
+      GUI library combining React and Electron.
     </td>
   </tr>
 </table>
