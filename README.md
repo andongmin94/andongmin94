@@ -8,36 +8,35 @@
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
 
-<br />
+<br /><br />
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/andongmin94/kersor"><img src="https://github.com/andongmin94/kersor/blob/main/public/kersor.svg" height=100px></a>
-      <br />
-      <strong><a href="https://github.com/andongmin94/kersor">Kersor</a> (Phase 2)</strong> 
-      <br />
-      Cursor and Keyboard Highlighter
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/andongmin94/flick"><img src="https://github.com/andongmin94/flick/blob/main/public/flick.svg" height=100px></a>
-      <br />
-      <strong><a href="https://github.com/andongmin94/flick">Flick</a> (Phase 1)</strong> 
-      <br />
-      Trending Crawler
-    </td>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/andongmin94/kersor"><img src="https://github.com/andongmin94/kersor/blob/main/public/kersor.svg" height=100px></a>
+        <br />
+        <strong><a href="https://github.com/andongmin94/kersor">Kersor</a> (Phase 2)</strong>
+        <br />
+        Cursor & Key Highlighter
+      </td>
     </tr>
-  <tr></tr>
-    <td align="center">
-      <a href="https://frontron.vercel.app"><img src="https://github.com/andongmin94/frontron/blob/main/docs/public/frontron.svg" height=100px></a>
-      <br />
-      <strong><a href="https://github.com/andongmin94/frontron">Frontron</a> (Phase 3)</strong> 
-      <br />
-      GUI library combining React and Electron.
-    </td>
-  </tr>
-</table>
-
+    <tr>
+      <td align="center">
+        <a href="https://github.com/andongmin94/flick"><img src="https://github.com/andongmin94/flick/blob/main/public/flick.svg" height=100px></a>
+        <br />
+        <strong><a href="https://github.com/andongmin94/flick">Flick</a> (Phase 1)</strong>
+        <br />
+        Trend Crawler
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://frontron.vercel.app"><img src="https://github.com/andongmin94/frontron/blob/main/docs/public/frontron.svg" height=100px></a>
+        <br />
+        <strong><a href="https://github.com/andongmin94/frontron">Frontron</a> (Phase 3)</strong>
+        <br />
+        Reactron GUI Library
+      </td>
+    </tr>
+  </table>
 </div>
