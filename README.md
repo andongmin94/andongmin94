@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/andongmin94/flick"><img src="https://cdn-icons-png.flaticon.com/512/10986/10986662.png" height=100px></a>
+      <a href="https://github.com/andongmin94/flick"><img src="https://github.com/andongmin94/flick/blob/main/public/flick.svg" height=100px></a>
       <br />
       <strong><a href="https://github.com/andongmin94/flick">Flick</a> (Phase 0)</strong> 
       <br />
