@@ -13,30 +13,37 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/andongmin94/kersor"><img src="https://github.com/andongmin94/kersor/blob/main/public/kersor.svg" height=100px></a>
+        <a href="https://github.com/andongmin94/flick">
+          <img src="https://github.com/andongmin94/flick/blob/main/public/flick.svg" height="100px">
+        </a>
+        <br />
+        <strong><a href="https://github.com/andongmin94/flick">Flick</a> (Phase 1)</strong>
+        <br />
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Trend Crawler
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </td>
+      <td align="center">
+        <a href="https://github.com/andongmin94/kersor">
+          <img src="https://github.com/andongmin94/kersor/blob/main/public/kersor.svg" height="100px">
+        </a>
         <br />
         <strong><a href="https://github.com/andongmin94/kersor">Kersor</a> (Phase 2)</strong>
         <br />
         Cursor & Key Highlighter
       </td>
-    </tr>
-    <tr>
       <td align="center">
-        <a href="https://github.com/andongmin94/flick"><img src="https://github.com/andongmin94/flick/blob/main/public/flick.svg" height=100px></a>
-        <br />
-        <strong><a href="https://github.com/andongmin94/flick">Flick</a> (Phase 1)</strong>
-        <br />
-        Trend Crawler
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://frontron.vercel.app"><img src="https://github.com/andongmin94/frontron/blob/main/docs/public/frontron.svg" height=100px></a>
+        <a href="https://frontron.vercel.app">
+          <img src="https://github.com/andongmin94/frontron/blob/main/docs/public/frontron.svg" height="100px">
+        </a>
         <br />
         <strong><a href="https://github.com/andongmin94/frontron">Frontron</a> (Phase 3)</strong>
         <br />
+        &nbsp;&nbsp;&nbsp;
         Reactron GUI Library
+        &nbsp;&nbsp;
       </td>
     </tr>
   </table>
+  
 </div>
