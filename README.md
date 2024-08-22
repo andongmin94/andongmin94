@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/andongmin94/chat-view"><img src="https://cdn-icons-png.flaticon.com/512/10986/10986662.png" height=100px></a>
+      <a href="https://github.com/andongmin94/chat-view"><img src="https://github.com/andongmin94/chat-view/blob/main/public/chat-view.svg" height=100px></a>
       <br />
       <strong><a href="https://github.com/andongmin94/chat-view">ChatView</a> (Phase 1)</strong> 
       <br />
