@@ -48,7 +48,7 @@
       <br />
       <strong><a href="https://github.com/andongmin94/convertix">Convertix</a> (Concept)</strong>
       <br />
-      Webp Strip
+      Channel Strip Converter
     </td>
   </tr>
 </table>
