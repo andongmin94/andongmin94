@@ -28,7 +28,7 @@
       <br />
       <strong><a href="https://github.com/andongmin94/kersor">Kersor</a> (Alpha)</strong>
       <br />
-      Cursor & Key Highlighter
+      Key & Cursor Highlighter
     </td>
   </tr>
   <tr>
