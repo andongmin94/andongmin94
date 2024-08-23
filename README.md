@@ -43,12 +43,12 @@
     </td>
     <td align="center" style="padding: 20px; min-width: 220px;">
       <a href="https://github.com/andongmin94/convertix">
-        <img src="https://github.com/andongmin94/convertix/blob/main/public/convertix.svg" height="100px">
+        <img src="https://github.com/andongmin94/vst3-kit/blob/main/vst3-kit.svg" height="100px">
       </a>
       <br />
-      <strong><a href="https://github.com/andongmin94/convertix">Convertix</a> (Concept)</strong>
+      <strong><a href="https://github.com/andongmin94/convertix">Vst3 Kit</a> (Concept)</strong>
       <br />
-      Channel Strip Converter
+      Audio Plugins
     </td>
   </tr>
 </table>
