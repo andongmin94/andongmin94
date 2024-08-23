@@ -10,47 +10,45 @@
 
 <br />
 
-<table>
+<table style="width: 100%; table-layout: fixed;">
   <tr>
-    <td align="center" style="padding: 20px;">
+    <td align="center" style="padding: 20px; min-width: 220px;">
       <a href="https://github.com/andongmin94/chat-view">
         <img src="https://github.com/andongmin94/chat-view/blob/main/public/chat-view.svg" height="100px">
       </a>
       <br />
-      <strong><a href="https://github.com/andongmin94/flick">ChatView</a> (Phase 0)</strong>
+      <strong><a href="https://github.com/andongmin94/flick">ChatView</a> (Concept)</strong>
       <br />
       One monitor monitoring
     </td>
-    <td align="center" style="padding: 20px;">
+    <td align="center" style="padding: 20px; min-width: 220px;">
       <a href="https://github.com/andongmin94/kersor">
         <img src="https://github.com/andongmin94/kersor/blob/main/public/kersor.svg" height="100px">
       </a>
       <br />
-      <strong><a href="https://github.com/andongmin94/kersor">Kersor</a> (Phase 2)</strong>
+      <strong><a href="https://github.com/andongmin94/kersor">Kersor</a> (Alpha)</strong>
       <br />
       Cursor & Key Highlighter
     </td>
-    <td align="center" style="padding: 20px;">
+  </tr>
+  <tr>
+    <td align="center" style="padding: 20px; min-width: 220px;">
       <a href="https://github.com/andongmin94/flick">
         <img src="https://github.com/andongmin94/flick/blob/main/public/flick.svg" height="100px">
       </a>
       <br />
-      <strong><a href="https://github.com/andongmin94/flick">Flick</a> (Phase 1)</strong>
+      <strong><a href="https://github.com/andongmin94/flick">Flick</a> (Prototype)</strong>
       <br />
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       Trend Crawler
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
-    <td align="center" style="padding: 20px;">
+    <td align="center" style="padding: 20px; min-width: 220px;">
       <a href="https://github.com/andongmin94/convertix">
         <img src="https://github.com/andongmin94/convertix/blob/main/public/convertix.svg" height="100px">
       </a>
       <br />
-      <strong><a href="https://github.com/andongmin94/convertix">Convertix</a> (Phase 1)</strong>
+      <strong><a href="https://github.com/andongmin94/convertix">Convertix</a> (Concept)</strong>
       <br />
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       Webp strip
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
 </table>
