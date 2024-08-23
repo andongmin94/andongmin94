@@ -19,7 +19,7 @@
       <br />
       <strong><a href="https://github.com/andongmin94/flick">ChatView</a> (Concept)</strong>
       <br />
-      One monitor monitoring
+      One Monitor Monitoring
     </td>
     <td align="center" style="padding: 20px; min-width: 220px;">
       <a href="https://github.com/andongmin94/kersor">
@@ -48,7 +48,7 @@
       <br />
       <strong><a href="https://github.com/andongmin94/convertix">Convertix</a> (Concept)</strong>
       <br />
-      Webp strip
+      Webp Strip
     </td>
   </tr>
 </table>
