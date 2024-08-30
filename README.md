@@ -17,7 +17,7 @@
         <img src="https://github.com/andongmin94/chat-view/blob/main/public/chat-view.svg" height="100px">
       </a>
       <br />
-      <strong><a href="https://github.com/andongmin94/flick">ChatView</a> (Concept)</strong>
+      <strong><a href="https://github.com/andongmin94/chat-view">ChatView</a> (Alpha)</strong>
       <br />
       One Monitor Monitoring
     </td>
@@ -42,11 +42,11 @@
       Trend Crawler
     </td>
     <td align="center" style="padding: 20px; min-width: 220px;">
-      <a href="https://github.com/andongmin94/convertix">
+      <a href="https://github.com/andongmin94/vst3-kit">
         <img src="https://github.com/andongmin94/vst3-kit/blob/main/vst3-kit.svg" height="100px">
       </a>
       <br />
-      <strong><a href="https://github.com/andongmin94/convertix">Vst3 Kit</a> (Concept)</strong>
+      <strong><a href="https://github.com/andongmin94/vst3-kit">Vst3 Kit</a> (Concept)</strong>
       <br />
       Audio Plugins
     </td>
