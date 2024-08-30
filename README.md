@@ -17,7 +17,7 @@
         <img src="https://github.com/andongmin94/chat-view/blob/main/public/chat-view.svg" height="100px">
       </a>
       <br />
-      <strong><a href="https://github.com/andongmin94/chat-view">ChatView</a> (Alpha)</strong>
+      <strong><a href="https://github.com/andongmin94/chat-view">ChatView</a> (Released)</strong>
       <br />
       One Monitor Monitoring
     </td>
