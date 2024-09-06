@@ -48,7 +48,7 @@
       <br />
       <strong><a href="https://github.com/andongmin94/vst3-kit">Frontron</a> (Released)</strong>
       <br />
-      Audio Plugins
+      Electron Boilerplate
     </td>
   </tr>
 </table>
