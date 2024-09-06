@@ -43,7 +43,7 @@
     </td>
     <td align="center" style="padding: 20px; min-width: 220px;">
       <a href="https://github.com/andongmin94/frontron">
-        <img src="https://github.com/andongmin94/frontron/blob/main/public/frontron.svg" height="100px">
+        <img src="https://github.com/andongmin94/frontron/blob/main/docs/public/frontron.svg" height="100px">
       </a>
       <br />
       <strong><a href="https://github.com/andongmin94/vst3-kit">Frontron</a> (Released)</strong>
