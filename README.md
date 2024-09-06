@@ -42,11 +42,11 @@
       Trend Crawler
     </td>
     <td align="center" style="padding: 20px; min-width: 220px;">
-      <a href="https://github.com/andongmin94/vst3-kit">
-        <img src="https://github.com/andongmin94/vst3-kit/blob/main/vst3-kit.svg" height="100px">
+      <a href="https://github.com/andongmin94/frontron">
+        <img src="https://github.com/andongmin94/frontron/blob/main/public/frontron.svg" height="100px">
       </a>
       <br />
-      <strong><a href="https://github.com/andongmin94/vst3-kit">Vst3 Kit</a> (Concept)</strong>
+      <strong><a href="https://github.com/andongmin94/vst3-kit">Frontron</a> (Released)</strong>
       <br />
       Audio Plugins
     </td>
