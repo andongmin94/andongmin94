@@ -1,17 +1,19 @@
 <div align="center">
 
-<a href="https://www.andongmin.com">
-  <table>
-    <tr>
-      <td>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.andongmin.com">
         <img src="https://www.andongmin.com/icon.png" height="50px">
-      </td>
-      <td style="vertical-align: middle; padding-left: 10px; font-size: 20px; color: black;">
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 10px; font-size: 20px; color: black;">
+      <a href="https://www.andongmin.com">
         <b>안동민 개발노트</b>
-      </td>
-    </tr>
-  </table>
-</a>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
