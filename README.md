@@ -1,27 +1,56 @@
 <div align="center">
 
 <a href="https://www.andongmin.com">
-  <img src="https://www.andongmin.com/icon.png" height="50px">
-  <br />안동민 개발노트
+  <table>
+    <tr>
+      <td>
+        <img src="https://www.andongmin.com/icon.png" height="50px">
+      </td>
+      <td style="vertical-align: middle; padding-left: 10px; font-size: 20px; color: black;">
+        안동민 개발노트
+      </td>
+    </tr>
+  </table>
 </a>
 
-<hr />
-
-<h3>기술스택</h3>
-
-<img src="https://img.shields.io/badge/React-40AEF0?style=flat-square&logo=react&logoColor=white"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
-
-<hr />
-
-<h3>프로젝트</h3>
-
-<table style="width: 100%; table-layout: fixed;">
+<table>
   <tr>
-    <td align="center" style="padding: 20px; min-width: 220px;">
+    <td colspan="3" align="center">
+      <h3>기술스택</h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-40AEF0?style=flat-square&logo=react&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>프로젝트</h3>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/andongmin94/chat-view">
         <img src="https://github.com/andongmin94/chat-view/blob/main/public/chat-view.svg" height="100px">
       </a>
@@ -30,7 +59,7 @@
       <br />
       One Monitor Monitoring
     </td>
-    <td align="center" style="padding: 20px; min-width: 220px;">
+    <td align="center">
       <a href="https://github.com/andongmin94/kersor">
         <img src="https://github.com/andongmin94/kersor/blob/main/public/kersor.svg" height="100px">
       </a>
@@ -41,7 +70,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 20px; min-width: 220px;">
+    <td align="center">
       <a href="https://github.com/andongmin94/flick">
         <img src="https://github.com/andongmin94/flick/blob/main/public/flick.svg" height="100px">
       </a>
@@ -50,16 +79,16 @@
       <br />
       Trend Crawler
     </td>
-    <td align="center" style="padding: 20px; min-width: 220px;">
+    <td align="center">
       <a href="https://github.com/andongmin94/frontron">
         <img src="https://github.com/andongmin94/frontron/blob/main/docs/public/frontron.svg" height="100px">
       </a>
       <br />
-      <strong><a href="https://github.com/andongmin94/vst3-kit">Frontron</a> (Released)</strong>
+      <strong><a href="https://github.com/andongmin94/frontron">Frontron</a> (Released)</strong>
       <br />
       Electron Boilerplate
     </td>
   </tr>
 </table>
-  
+
 </div>
