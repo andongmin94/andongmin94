@@ -52,7 +52,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/andongmin94/chat-view">
-        <img src="https://github.com/andongmin94/chat-view/blob/main/public/chat-view.svg" height="100px">
+        <img src="https://github.com/andongmin94/chat-view/blob/main/public/chat-view.svg" height="75px">
       </a>
       <br />
       <strong><a href="https://github.com/andongmin94/chat-view">ChatView</a> (Released)</strong>
@@ -61,7 +61,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/andongmin94/kersor">
-        <img src="https://github.com/andongmin94/kersor/blob/main/public/kersor.svg" height="100px">
+        <img src="https://github.com/andongmin94/kersor/blob/main/public/kersor.svg" height="75px">
       </a>
       <br />
       <strong><a href="https://github.com/andongmin94/kersor">Kersor</a> (Alpha)</strong>
@@ -72,7 +72,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/andongmin94/flick">
-        <img src="https://github.com/andongmin94/flick/blob/main/public/flick.svg" height="100px">
+        <img src="https://github.com/andongmin94/flick/blob/main/public/flick.svg" height="75px">
       </a>
       <br />
       <strong><a href="https://github.com/andongmin94/flick">Flick</a> (Prototype)</strong>
@@ -81,7 +81,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/andongmin94/frontron">
-        <img src="https://github.com/andongmin94/frontron/blob/main/docs/public/frontron.svg" height="100px">
+        <img src="https://github.com/andongmin94/frontron/blob/main/docs/public/frontron.svg" height="75px">
       </a>
       <br />
       <strong><a href="https://github.com/andongmin94/frontron">Frontron</a> (Released)</strong>
