@@ -7,7 +7,7 @@
         <img src="https://www.andongmin.com/icon.png" height="50px">
       </td>
       <td style="vertical-align: middle; padding-left: 10px; font-size: 20px; color: black;">
-        안동민 개발노트
+        <b>안동민 개발노트</b>
       </td>
     </tr>
   </table>
@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td colspan="3" align="center">
-      <h3>기술스택</h3>
+      <b>기술스택</b>
     </td>
   </tr>
   <tr>
@@ -46,7 +46,7 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <h3>프로젝트</h3>
+      <b>프로젝트</b>
     </td>
   </tr>
   <tr>
