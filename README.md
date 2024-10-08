@@ -3,8 +3,8 @@
 <table>
   <tr>
     <td>
-      <a href="https://www.andongmin.com">
-        <img src="https://www.andongmin.com/icon.png" height="50px">
+      <a href="https://andongmin.com">
+        <img src="https://andongmin.com/icon.png" height="50px">
       </a>
     </td>
     <td style="vertical-align: middle; padding-left: 10px; font-size: 20px; color: black;">
