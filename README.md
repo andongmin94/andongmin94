@@ -82,11 +82,11 @@
       Trend Crawler
     </td>
     <td align="center">
-      <a href="https://github.com/andongmin94/frontron">
+      <a href="https://frontron.andongmin.com">
         <img src="https://github.com/andongmin94/frontron/blob/main/docs/public/frontron.svg" height="75px">
       </a>
       <br />
-      <strong><a href="https://github.com/andongmin94/frontron">Frontron</a> (Released)</strong>
+      <strong><a href="https://frontron.andongmin.com">Frontron</a> (Released)</strong>
       <br />
       Electron Boilerplate
     </td>
