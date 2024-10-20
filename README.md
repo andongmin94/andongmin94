@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://andongmin.com">
+      <a href="https://github.com/andongmin94/chat-view" target="_blank" rel="noopener noreferrer">
         <img src="https://andongmin.com/icon.png" height="50px">
       </a>
     </td>
