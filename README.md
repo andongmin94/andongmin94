@@ -53,11 +53,11 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/andongmin94/chat-view">
+      <a href="https://chat-view.andongmin.com">
         <img src="https://github.com/andongmin94/chat-view/blob/main/public/chat-view.svg" height="75px">
       </a>
       <br />
-      <strong><a href="https://github.com/andongmin94/chat-view">ChatView</a> (Released)</strong>
+      <strong><a href="https://chat-view.andongmin.com">ChatView</a> (Released)</strong>
       <br />
       One Monitor Monitoring
     </td>
