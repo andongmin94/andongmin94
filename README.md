@@ -54,7 +54,7 @@
   <tr>
     <td align="center">
       <a href="https://chat-view.andongmin.com">
-        <img src="https://github.com/andongmin94/chat-view/blob/main/public/chat-view.svg" height="75px">
+        <img src="https://chat-view.andongmin.com/chat-view.svg" height="75px">
       </a>
       <br />
       <strong><a href="https://chat-view.andongmin.com">ChatView</a> (Released)</strong>
