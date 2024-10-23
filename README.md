@@ -28,14 +28,16 @@
     <td align="center">
       <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white" />
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
-    </td>
   </tr>
   <tr>
     <td align="center">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
+    </td>
+    <td align="center">
       <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
     </td>
