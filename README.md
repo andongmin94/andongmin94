@@ -59,7 +59,7 @@
       <br />
       <strong><a href="https://chat-view.andongmin.com">ChatView</a> (Released)</strong>
       <br />
-      One Monitor Monitoring
+      Monitor Monitoring
     </td>
     <td align="center">
       <a href="https://mini-cast.andongmin.com">
@@ -68,7 +68,7 @@
       <br />
       <strong><a href="https://mini-cast.andongmin.com">MiniCast</a> (Alpha)</strong>
       <br />
-      Click Overlay
+      Click Highliting
     </td>
   </tr>
   <tr>
