@@ -68,7 +68,7 @@
       <br />
       <strong><a href="https://mini-cast.andongmin.com">MiniCast</a> (Alpha)</strong>
       <br />
-      Keyboard & Mouse Overlay
+      Click Overlay
     </td>
   </tr>
   <tr>
