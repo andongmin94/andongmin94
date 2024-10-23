@@ -63,12 +63,12 @@
     </td>
     <td align="center">
       <a href="https://mini-cast.andongmin.com">
-        <img src="https://mini-cast.andongmin.com/chat-view.svg" height="75px">
+        <img src="https://mini-cast.andongmin.com/mini-cast.svg" height="75px">
       </a>
       <br />
       <strong><a href="https://mini-cast.andongmin.com">MiniCast</a> (Alpha)</strong>
       <br />
-      Key & Cursor Highlighter
+      Keyboard & Mouse Overlay
     </td>
   </tr>
   <tr>
