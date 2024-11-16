@@ -19,21 +19,28 @@
       <br/><br/>
       <table>
         <tr>
-          <img src="https://andongmin.com/lecture/react.svg" height="50px"/>
-          &nbsp;
-          <img src="https://andongmin.com/lecture/typescript.svg" height="50px"/>
+          <td align="center">
+            <img src="https://andongmin.com/lecture/react.svg" height="50px"/>
+          </td>
+          <td align="center">
+            <img src="https://andongmin.com/lecture/typescript.svg" height="50px"/>
+          </td>
         </tr>
-        <br/><br/>
         <tr>
-          <img src="https://andongmin.com/lecture/next.svg" height="50px"/>
-          &nbsp;
-          <img src="https://andongmin.com/lecture/electron.svg" height="50px"/>
+          <td align="center">
+            <img src="https://andongmin.com/lecture/next.svg" height="50px"/>
+          </td>
+          <td align="center">
+            <img src="https://andongmin.com/lecture/electron.svg" height="50px"/>
+          </td>
         </tr>
-        <br/><br/>
         <tr>
-          <img src="https://andongmin.com/lecture/cpp.svg" height="50px"/>
-          &nbsp;
-          <img src="https://andongmin.com/lecture/unreal.svg" height="50px"/>
+          <td align="center">
+            <img src="https://andongmin.com/lecture/cpp.svg" height="50px"/>
+          </td>
+          <td align="center">
+            <img src="https://andongmin.com/lecture/unreal.svg" height="50px"/>
+          </td>
         </tr>
       </table>
     </td>
