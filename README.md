@@ -16,7 +16,7 @@
         <br/>
         <b>안동민 개발노트</b>
       </a>
-      <br/><br/>
+      <br/>
       <table>
         <tr>
           <td align="center">
