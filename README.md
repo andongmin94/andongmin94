@@ -12,7 +12,7 @@
   <tr>
     <td align="center">
       <a href="https://andongmin.com">
-        <img src="https://andongmin.com/typo.png" height="60px">
+        <img src="https://andongmin.com/typo.png" height="150px">
       </a>
       <br/><br/>
       <table>
