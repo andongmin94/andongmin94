@@ -12,7 +12,7 @@
   <tr>
     <td align="center">
       <a href="https://andongmin.com">
-        <img src="https://andongmin.com/icon.png" height="125px">
+        <img src="https://andongmin.com/typo.png" height="125px">
         <br/>
         <b>안동민 개발노트</b>
       </a>
