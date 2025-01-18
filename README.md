@@ -19,24 +19,24 @@
         <tr>
           <td align="center">
             <a href="https://andongmin.com/docs/react">
-              <img src="https://andongmin.com/lecture/react.svg" height="50px"/>
+              <img src="https://andongmin.com/lecture/react.svg" height="40px"/>
             </a>
           </td>
           <td align="center">
             <a href="https://andongmin.com/docs/typescript">
-              <img src="https://andongmin.com/lecture/typescript.svg" height="50px"/>
+              <img src="https://andongmin.com/lecture/typescript.svg" height="40px"/>
             </a>
           </td>
         </tr>
         <tr>
           <td align="center">
             <a href="https://andongmin.com/docs/next">
-              <img src="https://andongmin.com/lecture/next.svg" height="50px"/>
+              <img src="https://andongmin.com/lecture/next.svg" height="40px"/>
             </a>
           </td>
           <td align="center">
             <a href="https://andongmin.com//blog/1">
-              <img src="https://andongmin.com/lecture/electron.svg" height="50px"/>
+              <img src="https://andongmin.com/lecture/electron.svg" height="40px"/>
             </a>
           </td>
         </tr>
