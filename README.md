@@ -12,7 +12,9 @@
   <tr>
     <td align="center">
       <a href="https://andongmin.com">
-        <img src="https://andongmin.com/typo.png" height="120px">
+        <img src="https://andongmin.com/andongmin.svg" height="125px">
+        <br/>
+        <b>안동민 개발노트</b>
       </a>
       <br/><br/>
       <table>
@@ -59,7 +61,7 @@
         <tr>
           <td align="center">
             <a href="https://chat-view.andongmin.com">
-              <img src="https://chat-view.andongmin.com/chat-view.svg" height="110px">
+              <img src="https://chat-view.andongmin.com/chat-view.svg" height="128px">
             </a>
             <br />
             <strong><a href="https://chat-view.andongmin.com">ChatView</a></strong>
@@ -68,7 +70,7 @@
           </td>
           <td align="center">
             <a href="https://mini-cast.andongmin.com">
-              <img src="https://mini-cast.andongmin.com/mini-cast.svg" height="110px">
+              <img src="https://mini-cast.andongmin.com/mini-cast.svg" height="128px">
             </a>
             <br />
             <strong><a href="https://mini-cast.andongmin.com">MiniCast</a></strong>
@@ -79,7 +81,7 @@
       <tr>
           <td align="center">
             <a href="https://flick.andongmin.com">
-              <img src="https://flick.andongmin.com/icon.png" height="110px">
+              <img src="https://flick.andongmin.com/flick.svg" height="128px">
             </a>
             <br />
             <strong><a href="https://flick.andongmin.com">Flick</a></strong>
@@ -88,7 +90,7 @@
           </td>
           <td align="center">
             <a href="https://frontron.andongmin.com">
-              <img src="https://frontron.andongmin.com/frontron.svg" height="110px">
+              <img src="https://frontron.andongmin.com/frontron.svg" height="128px">
             </a>
             <br />
             <strong><a href="https://frontron.andongmin.com">Frontron</a></strong>
