@@ -62,7 +62,7 @@
         <tr>
           <td align="center">
             <a href="https://chat-view.andongmin.com">
-              <img src="https://chat-view.andongmin.com/chat-view.svg" height="80px">
+              <img src="https://chat-view.andongmin.com/chat-view.svg" height="85px">
             </a>
             <br />
             <strong><a href="https://chat-view.andongmin.com">ChatView</a></strong>
@@ -71,7 +71,7 @@
           </td>
           <td align="center">
             <a href="https://mini-cast.andongmin.com">
-              <img src="https://mini-cast.andongmin.com/mini-cast.svg" height="80px">
+              <img src="https://mini-cast.andongmin.com/mini-cast.svg" height="85px">
             </a>
             <br />
             <strong><a href="https://mini-cast.andongmin.com">MiniCast</a></strong>
@@ -82,7 +82,7 @@
       <tr>
           <td align="center">
             <a href="https://flick.andongmin.com">
-              <img src="https://flick.andongmin.com/typo.png" height="80px">
+              <img src="https://flick.andongmin.com/typo.png" height="85px">
             </a>
             <br />
             <strong><a href="https://flick.andongmin.com">Flick</a></strong>
@@ -91,7 +91,7 @@
           </td>
           <td align="center">
             <a href="https://frontron.andongmin.com">
-              <img src="https://frontron.andongmin.com/frontron.svg" height="80px">
+              <img src="https://frontron.andongmin.com/frontron.svg" height="85px">
             </a>
             <br />
             <strong><a href="https://frontron.andongmin.com">Frontron</a></strong>
