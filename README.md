@@ -14,10 +14,10 @@
       <table>
         <tr>
           <td align="center">
-              <img src="https://github.com/user-attachments/assets/8de31304-cd6e-4bd6-b29e-1ee84cd8e744" height="220px"/>
+              <img src="https://github.com/user-attachments/assets/8de31304-cd6e-4bd6-b29e-1ee84cd8e744" height="150px"/>
           </td>
           <td align="center">
-              <img src="https://github.com/user-attachments/assets/e2680500-88aa-424e-9d9a-8bf62acdeb2c" height="220px"/>
+              <img src="https://github.com/user-attachments/assets/e2680500-88aa-424e-9d9a-8bf62acdeb2c" height="150px"/>
           </td>
         </tr>
         <tr>
