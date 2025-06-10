@@ -16,13 +16,15 @@
           <td align="center">
               <img src="https://github.com/user-attachments/assets/8de31304-cd6e-4bd6-b29e-1ee84cd8e744" height="100px"/>
           </td>
+        </tr>
+        <tr>
           <td align="center">
-              <img src="https://github.com/user-attachments/assets/e2680500-88aa-424e-9d9a-8bf62acdeb2c" height="100px"/>
+            <img src="https://github.com/user-attachments/assets/e2680500-88aa-424e-9d9a-8bf62acdeb2c" height="100px"/>
           </td>
         </tr>
         <tr>
-          <td colspan=2>
-            <p>The recipient of this badge is qualified as an Authorized Instructor for Unreal Engine.</p>
+          <td align="center" colspan=2>
+            <p>이 배지를 소지한 사람은 언리얼 엔진 공인 강사 자격을 갖습니다.</p>
           </td>
         </tr>
       </table>
