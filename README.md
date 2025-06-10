@@ -1,7 +1,10 @@
 <div align="center">
-  
+
 <table>
   <tr>
+    <td align="center">
+      <b>라이센스</b>
+    </td>
     <td align="center">
       <b>기술스택</b>
     </td>
@@ -10,6 +13,18 @@
     </td>
   </tr>
   <tr>
+    <td align="center">
+      <table>
+        <tr>
+          <td align="center">
+              <img src="https://github.com/user-attachments/assets/8de31304-cd6e-4bd6-b29e-1ee84cd8e744" height="280px"/>
+          </td>
+          <td align="center">
+              <img src="https://github.com/user-attachments/assets/e2680500-88aa-424e-9d9a-8bf62acdeb2c" height="280px"/>
+          </td>
+        </tr>
+      </table>
+    </td>
     <td align="center">
       <table>
         <tr>
