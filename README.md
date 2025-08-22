@@ -8,6 +8,9 @@
     <td align="center">
       <b>기술스택</b>
     </td>
+    <td align="center">
+      <b>프로젝트</b>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -23,7 +26,7 @@
           </td>
         </tr>
         <tr>
-          <td align="center" colspan=2>
+          <td align="center">
             <p>이 배지를 소지한 사람은 <b>언리얼 엔진 공인 강사</b> 자격을 갖습니다.</p>
           </td>
         </tr>
@@ -32,12 +35,16 @@
     <td align="center">
       <table>
         <tr>
-          <td colspan=2>
+          <td>
             <a href="https://andongmin.com">
               <img src="https://andongmin.com/typo.png" height="70px">
             </a>
           </td>
         </tr>
+      </table>
+    </td>
+    <td align="center">
+      <table>
         <tr>
           <td align="center">
             <a href="https://chat-view.andongmin.com">
