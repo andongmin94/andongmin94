@@ -46,7 +46,7 @@
           <tr>
             <td align="center">
               <a href="https://flick.andongmin.com">
-                <img src="https://flick.andongmin.com/typo.png" height="50px" />
+                <img src="https://flick.andongmin.com/flick.png" height="50px" />
               </a>
               <br />
               <strong>
