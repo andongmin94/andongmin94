@@ -14,7 +14,7 @@
           <tr>
             <td align="center">
               <a href="https://mini-cast.andongmin.com">
-                <img src="https://mini-cast.andongmin.com/mini-cast.svg" height="75px" />
+                <img src="https://mini-cast.andongmin.com/mini-cast.svg" height="77px" />
               </a>
               <br />
               <strong>
@@ -23,7 +23,7 @@
             </td>
             <td align="center">
               <a href="https://chat-view.andongmin.com">
-                <img src="https://chat-view.andongmin.com/chat-view.svg" height="75px" />
+                <img src="https://chat-view.andongmin.com/chat-view.svg" height="77px" />
               </a>
               <br />
               <strong>
@@ -34,7 +34,7 @@
           <tr>
             <td align="center">
               <a href="https://flick.andongmin.com">
-                <img src="https://flick.andongmin.com/flick.png" height="75px" />
+                <img src="https://flick.andongmin.com/flick.png" height="77px" />
               </a>
               <br />
               <strong>
@@ -43,7 +43,7 @@
             </td>
             <td align="center">
               <a href="https://frontron.andongmin.com">
-                <img src="https://frontron.andongmin.com/frontron.svg" height="75px" />
+                <img src="https://frontron.andongmin.com/frontron.svg" height="77px" />
               </a>
               <br />
               <strong>
