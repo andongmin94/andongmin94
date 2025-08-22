@@ -25,21 +25,21 @@
         <table>
           <tr>
             <td align="center">
-              <a href="https://chat-view.andongmin.com">
-                <img src="https://chat-view.andongmin.com/chat-view.svg" height="50px" />
-              </a>
-              <br />
-              <strong>
-                <a href="https://chat-view.andongmin.com">ChatView</a>
-              </strong>
-            </td>
-            <td align="center">
               <a href="https://mini-cast.andongmin.com">
                 <img src="https://mini-cast.andongmin.com/mini-cast.svg" height="50px" />
               </a>
               <br />
               <strong>
                 <a href="https://mini-cast.andongmin.com">MiniCast</a>
+              </strong>
+            </td>
+            <td align="center">
+              <a href="https://chat-view.andongmin.com">
+                <img src="https://chat-view.andongmin.com/chat-view.svg" height="50px" />
+              </a>
+              <br />
+              <strong>
+                <a href="https://chat-view.andongmin.com">ChatView</a>
               </strong>
             </td>
           </tr>
