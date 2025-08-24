@@ -2,6 +2,9 @@
   <table>
     <tr>
       <td align="center">
+        <b>웹사이트</b>
+      </td>
+      <td align="center">
         <b>프로젝트</b>
       </td>
       <td align="center">
@@ -9,6 +12,24 @@
       </td>
     </tr>
     <tr>
+      <td align="center">
+        <table>
+          <tr>
+            <td align="center">
+                <a href="https://andongmin.com">
+                  <img src="https://andongmin.com/typo.png" height="120px" />
+                </a>
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              <p>
+                <b>안동민 개발노트</b>
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
       <td align="center">
         <table>
           <tr>
