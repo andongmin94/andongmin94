@@ -63,41 +63,51 @@
     </tr>
     <tr>
       <td colspan="2">
-        <ul>
-          <li><b>現 언리얼 공인 강사 (2025)</b>
-            <ul>
-              <li>Look Development 공인 강사</li>
-            </ul>
-          </li>
-          <li><b>現 OO의료재단</b>
-            <ul>
-              <li>소프트웨어 엔지니어</li>
-            </ul>
-          </li>
-          <li><b>前 Adobe Certified Partner</b></li>
-          <li><b>前 삼성청년소프트웨어아카데미</b></li>
-          <li><b>前 사업 PM</b>
-            <ul>
-              <li>○○시 창업기업 지원사업 수행</li>
-              <li>한국자산관리공사 과업 수행</li>
-              <li>○○시 창업 아이디어톤 기업부문 우수상 수상</li>
-              <li>창업진흥원 예비창업패키지 창업프리스쿨 과업 수행</li>
-              <li>소상공인진흥공단 신사업창업사관학교 과업 수행</li>
-              <li>○○전자정보기술원 과업 수행</li>
-              <li>○○시 콘텐츠크리에이터 과업 수행</li>
-            </ul>
-          </li>
-          <li><b>前 한국표준과학연구원</b>
-            <ul>
-              <li>Materials Data Processing</li>
-            </ul>
-          </li>
-          <li><b>前 한국과학기술정보연구원</b>
-            <ul>
-              <li>Machine Learning Data Processing</li>
-            </ul>
-          </li>
-        </ul>
+        <table>
+          <tr>
+            <td align="left">
+              <b>現</b> 언리얼 엔진 공인 강사 (2025)<br/>
+              └ Look Development 공인 강사
+            </td>
+          </tr>
+          <tr>
+            <td align="left">
+              <b>現</b> OO의료재단 — 소프트웨어 엔지니어
+            </td>
+          </tr>
+          <tr>
+            <td align="left">
+              <b>前</b> Adobe Certified Partner
+            </td>
+          </tr>
+          <tr>
+            <td align="left">
+              <b>前</b> 삼성청년소프트웨어아카데미
+            </td>
+          </tr>
+          <tr>
+            <td align="left">
+              <b>前</b> 사업 PM <br/>
+              └ ○○시 창업기업 지원사업 수행 <br/>
+              └ 한국자산관리공사 과업 수행 <br/>
+              └ ○○시 창업 아이디어톤 기업부문 우수상 <br/>
+              └ 창업진흥원 예비창업패키지 창업프리스쿨 수행 <br/>
+              └ 소상공인진흥공단 신사업창업사관학교 수행 <br/>
+              └ ○○전자정보기술원 과업 수행 <br/>
+              └ ○○시 콘텐츠크리에이터 과업 수행
+            </td>
+          </tr>
+          <tr>
+            <td align="left">
+              <b>前</b> 한국표준과학연구원 — Materials Data Processing
+            </td>
+          </tr>
+          <tr>
+            <td align="left">
+              <b>前</b> 한국과학기술정보연구원 — Machine Learning Data Processing
+            </td>
+          </tr>
+        </table>
       </td>
     </tr>
   </table>
