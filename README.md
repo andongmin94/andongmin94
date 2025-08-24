@@ -1,14 +1,6 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" colspan="2"><b>주요이력</b></td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img width="400" height="750" alt="image" src="https://github.com/user-attachments/assets/7901a294-7400-45ac-92c8-c51a8d46fcbf" />
-      </td>
-    </tr>
-    <tr>
       <td align="center"><b>프로젝트</b></td>
       <td align="center"><b>라이센스</b></td>
     </tr>
@@ -64,6 +56,14 @@
             </td>
           </tr>
         </table>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2"><b>주요이력</b></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="400" height="750" alt="image" src="https://github.com/user-attachments/assets/7901a294-7400-45ac-92c8-c51a8d46fcbf" />
       </td>
     </tr>
   </table>
