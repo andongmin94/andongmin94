@@ -67,7 +67,7 @@
           <tr>
             <td align="left">
               <b>現</b> Unreal Authorized Instructor (2025)<br/>
-              └ 언리얼 엔진 Look Development 공인 강사
+              └ 언리얼 엔진 공인 강사 (Look Development)
             </td>
           </tr>
           <tr>
