@@ -59,7 +59,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center" colspan="2"><b>주요이력</b></td>
+      <td align="center" colspan="2"><b>주요 이력 (최근 이력 순)</b></td>
     </tr>
     <tr>
       <td colspan="2" align="center">
