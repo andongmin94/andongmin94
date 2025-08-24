@@ -66,8 +66,8 @@
         <table>
           <tr>
             <td align="left">
-              <b>現</b> 언리얼 엔진 공인 강사 (2025)<br/>
-              └ Look Development 공인 강사
+              <b>現</b> Unreal Authorized Instructor (2025)<br/>
+              └ 언리얼 엔진 Look Development 공인 강사
             </td>
           </tr>
           <tr>
