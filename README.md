@@ -58,19 +58,14 @@
           <tr>
             <td align="center">
               <a href="https://credential.unrealengine.com/ee26545b-7580-437a-9730-200668ab118e#acc.4Jc9BSGu">
-                <img src="https://github.com/user-attachments/assets/8de31304-cd6e-4bd6-b29e-1ee84cd8e744" height="135px" />
-              </a>
-            </td>
-            <td align="center">
-              <a href="https://credential.unrealengine.com/ee26545b-7580-437a-9730-200668ab118e#acc.4Jc9BSGu">
                 <img src="https://github.com/user-attachments/assets/e2680500-88aa-424e-9d9a-8bf62acdeb2c" height="135px" />
               </a>
             </td>
           </tr>
           <tr>
-            <td align="center" colspan="2">
+            <td align="center">
               <p>
-                이 뱃지를 소지한 사람은 <b>언리얼 엔진 공인 강사</b> 자격을 갖습니다.
+                <b>언리얼 엔진 공인 강사 (2025)</b>
               </p>
             </td>
           </tr>
