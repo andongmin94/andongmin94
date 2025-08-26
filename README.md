@@ -26,7 +26,7 @@
           <tr>
             <td align="center">
               <a href="https://flick.andongmin.com">
-                <img src="https://flick.andongmin.com/flick.png" height="55px" />
+                <img src="https://flick.andongmin.com/flick.svg" height="55px" />
               </a>
               <br />
               <strong><a href="https://flick.andongmin.com">Flick</a></strong>
